@@ -35,7 +35,7 @@ For now, it is foreseen to include data of those research funding agencies/progr
 
 	https://www.nsf.gov/awardsearch/download.jsp
 
-#### 6. [European Union Funding - Research Framework Programme]( http://cordis.europa.eu/home_en.html) 
+#### 6. [European Union Funding - Research Framework Programme]( http://cordis.europa.eu/home_en.html) [wd:Q1438124](http://www.wikidata.org/entity/Q1438124)
 
 	source of the dataset (Open data Portal)
 
