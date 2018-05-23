@@ -29,7 +29,7 @@ For now, it is foreseen to include data of those research funding agencies/progr
 
 	https://exporter.nih.gov/
 
-#### 5. [US National Science Foundation]( https://www.nsf.gov/) 
+#### 5. [US National Science Foundation]( https://www.nsf.gov/) [wd:Q304878](http://www.wikidata.org/entity/Q304878)
 
 	source of the dataset: 
 
