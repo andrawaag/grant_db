@@ -42,7 +42,7 @@ For now, it is foreseen to include data of those research funding agencies/progr
 
 [https://data.europa.eu/euodp/en/home](https://data.europa.eu/euodp/en/home)
 
-#### 7. [Research Councils UK (RCUK)]( http://cordis.europa.eu/home_en.html) 
+#### 7. [Research Councils UK (RCUK)]( http://cordis.europa.eu/home_en.html) [wd:Q7315077](http://www.wikidata,org/entity/Q7315077)
 
 	source of the dataset: 
 
